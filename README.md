@@ -4,6 +4,8 @@ Projet mené en équipe de 4 durant le deuxième semestre de ma 1A ainsi que le 
 
 Vous trouverez dans ce dossier deux jupyter notebooks allègrement commentés qui présentent les deux approches que nous avons considérés durant notre année de travail (6 premiers mois : méthode "Matrix Profile" ; 6 derniers mois : "LSTM").
 
+Merci à mes collègues et néanmoins ami(e)s de promotion à CentraleSupélec (P2024) : Marion Poirier, Damien Bouet et Pierre Chardin.
+
 Pour toute question relative à ce projet, n'hésitez pas à me contacter à l'adresse mail suivante : noe.debrois@student-cs.fr
 
 ## Présentation du projet : détection et classification d'anomalies dans un signal de débit de dose.
