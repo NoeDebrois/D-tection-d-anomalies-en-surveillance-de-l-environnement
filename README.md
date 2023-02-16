@@ -10,9 +10,9 @@ Pour toute question relative à ce projet, n'hésitez pas à me contacter à l'a
 
 ## Présentation du projet : détection et classification d'anomalies dans un signal de débit de dose.
 
-Auteurs : Noé DEBROIS, Damien BOUET, Pierre CHARDIN et Marion POIRIER
-Date : de Février 2022 à Janvier 2023
-Implication personnelle : 100 heures
+- Auteurs : Noé DEBROIS, Damien BOUET, Pierre CHARDIN et Marion POIRIER
+- Date : de Février 2022 à Janvier 2023
+- Implication personnelle : 100 heures
 
 ### Contexte et objectifs
 
