@@ -6,7 +6,7 @@ Vous trouverez dans ce dossier deux jupyter notebooks allègrement commentés qu
 
 Pour toute question relative à ce projet, n'hésitez pas à me contacter à l'adresse mail suivante : noe.debrois@student-cs.fr
 
-## Présentation du projet : Détection et classification d'anomalies dans un signal de débit de dose.
+## Présentation du projet : détection et classification d'anomalies dans un signal de débit de dose.
 
 Auteurs : Noé DEBROIS, Damien BOUET, Pierre CHARDIN et Marion POIRIER
 Date : de Février 2022 à Janvier 2023
